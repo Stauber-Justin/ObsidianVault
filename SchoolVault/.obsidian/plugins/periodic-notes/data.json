@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "06 - Protokolle/6.1 - Daily",
+    "template": "07 - Ressources/7.1 - Obsidian Misc/Templates/PeriodicNotes/<% tp.date.now(\"YYYY-MM-DD\") %>",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "07 - Ressources/7.1 - Obsidian Misc/Templates/PeriodicNotes/<% tp.date.now(\"YYYY-\") %>W<% tp.date.now(\"WW\") %>.md",
+    "folder": "06 - Protokolle/6.2 - Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "07 - Ressources/7.1 - Obsidian Misc/Templates/PeriodicNotes/<% tp.date.now(\"YYYY-MM\") %>.md",
+    "folder": "06 - Protokolle/6.3 - Monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

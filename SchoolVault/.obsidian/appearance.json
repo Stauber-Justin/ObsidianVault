@@ -1,0 +1,16 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#4a90e2",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Noto Sans",
+  "monospaceFontFamily": "Noto Sans Mono",
+  "interfaceFontFamily": "Verdana",
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "GhibliWarm"
+  ],
+  "baseFontSize": 16,
+  "nativeMenus": true
+}

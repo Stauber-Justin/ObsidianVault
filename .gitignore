@@ -1,0 +1,19 @@
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+
+!/SchoolVault/
+# Alles ausschließen was möglicherweise dem Datenschutz im Wege stehen könnte
+SchoolVault/.obsidian/workspace.json
+SchoolVault/.trash
+
+SchoolVault/02_Lernen - Module & Aufgaben/*
+!SchoolVault/02_Lernen - Module & Aufgaben/00_ReadMe – Ordnerstruktur & Verwendung.md
+
+SchoolVault/06_Logbuch/6.2 - Daily/
+SchoolVault/06_Logbuch/6.2 - Weekly/
+SchoolVault/06_Logbuch/6.2 - Monthly/
+
+SchoolVault/07_Misc & Resources/*
+!SchoolVault/07_Misc & Resources/00_ReadMe – Ordnerstruktur & Verwendung.md
