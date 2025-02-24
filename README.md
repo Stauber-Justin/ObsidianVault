@@ -1,17 +1,7 @@
 # 📚 Obsidian NotizVault Repository
 
-Willkommen in meinem Obsidian NotizVault! Dieses Repository dient als persönliche Sammlung von Notizen, Ideen, Lernmaterialien und Ressourcen, die mithilfe von [Obsidian](https://obsidian.md/)(&ChatGPT) strukturiert werden.
+Dieses Repository dient als persönliche Sammlung von Notizen, Ideen, Lernmaterialien und Ressourcen, die mithilfe von [Obsidian](https://obsidian.md/)(&ChatGPT) strukturiert werden.
 
-## 🏗️ **Projektübersicht**
-
-Dieses Repository enthält meine persönlichen Obsidian Vaults, die für verschiedene Zwecke organisiert sind:
-
-- 🎓 **Lernmaterialien**: Module, Aufgaben, Prüfungen und Zertifikate.
-- 🧠 **Langfristiges Wissen**: Fachwissen, Referenzen und Snippets.
-- 📅 **Logbuch**: Tägliche, wöchentliche und monatliche Protokolle.
-- 🛠️ **Tools & Ressourcen**: Hilfreiche Ressourcen und Tools.
-
-Bitte beachte, dass einige Inhalte aus Datenschutzgründen oder organisatorischen Gründen im Repository ausgeschlossen sind.
 
 ## 📄 **Inhaltsstruktur**
 
